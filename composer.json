@@ -1,0 +1,8 @@
+{
+    "name": "efinish/docker-zend-expressive-babby-edition",
+    "description": "Zend Expressive and Docker Babby edition",
+    "type": "project",
+    "require": {
+        "php": " ^7.0"
+    }
+}
