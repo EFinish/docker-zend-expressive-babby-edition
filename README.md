@@ -35,3 +35,5 @@ Shut down docker containers
 ```
 docker-compose down
 ```
+
+NOTE: If you have other docker containers existing on the same machine, make sure that the names of the containers are different.
